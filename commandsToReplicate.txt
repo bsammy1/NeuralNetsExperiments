@@ -1,0 +1,12 @@
+create environment
+cd /Users/bsammy/Desktop/NeuralNetsExperiments
+python -m virtualenv poems-env
+
+activate environment
+source poems-env/bin/activate
+
+install neural net (keras)
+https://github.com/fchollet/keras
+pip install keras
+
+
